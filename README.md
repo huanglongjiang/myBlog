@@ -1,12 +1,12 @@
 # myBlog
 用vue3开发的一个轻盈、简洁的可展示图片、音频、视频和文字！又可以自定义主题及页面特效的的空间博客
 ![空间博客 图片](http://good1230.com/images/blog.webp "空间博客")
-![空间博客 图片](http://good1230.com/images/blog2.png "空间博客")
-![空间博客 图片](http://good1230.com/images/blog3.png "空间博客")
+![空间博客 图片](http://good1230.com/images/blog2.webp "空间博客")
+![空间博客 图片](http://good1230.com/images/blog3.webp "空间博客")
 
 ![空间博客 图片](http://good1230.com/images/Player.webp "空间博客")
-![空间博客 图片](http://good1230.com/images/Player2.png "空间博客")
-![空间博客 图片](http://good1230.com/images/Player.png "空间博客")
+![空间博客 图片](http://good1230.com/images/Player2.webp "空间博客")
+![空间博客 图片](http://good1230.com/images/Player3.webp "空间博客")
 
 # 默认访问功能
 * 首页
