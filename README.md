@@ -1,6 +1,6 @@
 # myBlog
 用vue3开发的一个轻盈、简洁的可展示图片、音频、视频和文字！又可以自定义主题及页面特效的的空间博客
-http://good1230.com/images/blog.png
+[http://good1230.com/images/blog.png](http://good1230.com/blogs/#/home)
 
 # 主题
 ![空间博客 图片](http://good1230.com/images/blog.webp "空间博客")
